@@ -28,4 +28,5 @@
 - <b>by.opraks;</b> 44/Istanbul - Türkiye
 - <b>Profession:</b> Architectural Restoration Technician
 
-<img src="resim adresi"/> 
+<img src="https://github.com/YumugoNft/YumugoNft/blob/main/Page%20Banner%201.png?raw=true"/>
+<img src="https://github.com/YumugoNft/YumugoNft/blob/main/Page%20Banner%201.png?raw=true"/>
