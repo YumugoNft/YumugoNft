@@ -34,7 +34,7 @@
 
 <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js" defer></script>
 <!-- ShareThis BEGINS -->
-<div class="sharethis-share-buttons" data-type="sticky-share-buttons" data-alignment="left" data-labels="counts" data-show_total="true">
+<div class="sharethis-share-buttons" data-type="sticky-share-buttons" data-alignment="left" data-labels="cta" data-show_total="false">
 <span data-network="facebook"></span>
 <span data-network="twitter"></span>
 <span data-network="pinterest"></span>
