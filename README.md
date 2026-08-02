@@ -10,7 +10,7 @@
 - <b>Finally,</b> I believe every claim is valuable. I wish all developers good work and good earnings. Lastly, I believe <b>Yumugo</b> will bring you happiness.
 
 - <h3><u><b>How Did It Start ?</b></u></h3>
-- I can start with <b>2024,</b> a historic year for me.The inclusion of <b>Artificial Intelligence (AI)</b> and its products into the developing <b>Blockchain Technology</b> and its presentation of a new approach, is a topic I already follow, so it directly drew me to this content.
+- I can start with <b>2024,</b> a historic year for me. The inclusion of <b>Artificial Intelligence (AI)</b> and its products into the developing <b>Blockchain Technology</b> and its presentation of a new approach, is a topic I already follow, so it directly drew me to this content.
 
 - The <b>Yumugo</b> initiative developed spontaneously in this process. Although I have developed many different ideas and models before, I chose to start with <b>Yumugo.</b> I expect your positive contributions for this idea to succeed and achieve something. Thank you all in advance.
 
