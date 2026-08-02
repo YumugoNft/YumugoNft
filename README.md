@@ -1,5 +1,7 @@
 <h2>Welcome to Yumugo Nft's World</h2>
+<hr>
 <img src="https://github.com/YumugoNft/YumugoNft/blob/main/Page%20Banner%201.png?raw=true"/>
+</hr>
 - <h3><u><b>What Is Yumugo Nft's ?</b></u></h3>
 - <b>Yumugo is a friendly egg.</b> It's always a cheerful and sweet companion. The creation process focused on what an egg is capable of.
 
@@ -18,9 +20,9 @@
 - <b>Yumugo NFT's</b> are currently listed on <b>Opensea</b> and <b>OKX</b> exchanges. You can purchase them from these websites. You can join our <b>Discord</b> communities and stay in touch with <b>Yumugo</b> as we maintain it.
 
 - You can also follow <b>Yumugo</b> on the <b>X</b> platform to stay up-to-date. You can send emails to <b>Yumugo</b> on any topic you wish using their personal <b>email address.</b> <b><u><i>by.opraks</i></u></b>
-
+<hr>
 <img src="https://github.com/YumugoNft/YumugoNft/blob/main/Page%20Banner%202.png?raw=true"/>
-
+</hr>
 - <h3><u><b>Yumugo Contact</b></u></h3>
 - You can find <b>Yumugo Products</b> in various stores and on some <b>social media</b> pages by clicking the links below. For your requests, comments, and suggestions, you can write to <b>Yumugo's Email address</b> or my personal <b>Email address.</b> Thank you...
 
