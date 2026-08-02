@@ -24,7 +24,6 @@
 
 - <p><b>Epost:</b> <u><font color="blue"> yumugo.nft@gmail.com </font></u>
 - <b>Market #1:</b> <a href="https://opensea.io/collection/yumugo-nft" target="_blank"><b><u>Opensea Nft Market</u></b></a>
-- <b>Market #2:</b> <a href="https://opensea.io/collection/yumugo-nft" target="_blank"><b><u>Okx Nft Market</u></b></a></p>
-
-- <p><b>by.opraks;</b> 43/Istanbul - Türkiye</p>
-- <p><b>Profession:</b> Architectural Restoration Technician</p>
+- <b>Market #2:</b> <a href="https://opensea.io/collection/yumugo-nft" target="_blank"><b><u>Okx Nft Market</u></b></a>
+- <b>by.opraks;</b> 43/Istanbul - Türkiye
+- <b>Profession:</b> Architectural Restoration Technician</p>
