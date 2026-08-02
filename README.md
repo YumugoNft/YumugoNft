@@ -1,4 +1,3 @@
-Yumugo Nft's
 <h2>Welcome to Yumugo Nft's World</h2>
 
 <b>What Is Yumugo Nft's ?</b>
