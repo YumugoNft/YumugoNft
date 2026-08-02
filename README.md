@@ -22,7 +22,7 @@
 - <h3><u><b>Yumugo Contact</b></u></h3>
 - You can find Yumugo Products in various stores and on some social media pages by clicking the links below. For your requests, comments, and suggestions, you can write to Yumugo's Email address or my personal Email address. Thank you...
 
-- <b>Epost:</b> <u><font color="blue"> yumugo.nft@gmail.com </font></u>
+- <b>Epost:</b> <u><font color="#6495ED"> yumugo.nft@gmail.com </font></u>
 - <b>Market #1:</b> <a href="https://opensea.io/collection/yumugo-nft" target="_blank"><b><u>Opensea Nft Market</u></b></a>
 - <b>Market #2:</b> <a href="https://opensea.io/collection/yumugo-nft" target="_blank"><b><u>Okx Nft Market</u></b></a>
 - <b>by.opraks;</b> 43/Istanbul - Türkiye
