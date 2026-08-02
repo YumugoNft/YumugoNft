@@ -31,3 +31,16 @@
 - <b>Market #2:</b> <a href="https://opensea.io/collection/yumugo-nft" target="_blank"><u><font color="blue"> Okx Nft Market </font></u></a>
 - <b>by.opraks;</b> 44/ Istanbul - Türkiye
 - <b>Profession:</b> Architectural Restoration Technician
+
+<!-- ShareThis BEGINS -->
+<div class="sharethis-share-buttons" data-type="sticky-share-buttons" data-alignment="left" data-labels="counts" data-show_total="true">
+<span data-network="facebook"></span>
+<span data-network="twitter"></span>
+<span data-network="pinterest"></span>
+<span data-network="email"></span>
+<span data-network="linkedin"></span>
+<span data-network="reddit"></span>
+<span data-network="telegram"></span>
+<span data-network="vk"></span>
+</div>
+<!-- ShareThis ENDS -->
