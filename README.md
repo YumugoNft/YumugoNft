@@ -23,8 +23,8 @@
 - You can find Yumugo Products in various stores and on some social media pages by clicking the links below. For your requests, comments, and suggestions, you can write to Yumugo's Email address or my personal Email address. Thank you...
 
 - <b>Epost:</b> yumugo.nft@gmail.com
-- <b>Market #1:</b> Opensea Nft
-- <b>Market #2:</b> Okx Nft
+- <b>Market #1:</b><a href="https://opensea.io/collection/yumugo-nft" target="_self">Opensea Nft Market!</a>
+- <b>Market #2:</b><a href="https://opensea.io/collection/yumugo-nft" target="_self">Okx Nft Market!</a>
 
 - <b>by.opraks;</b> 43/Istanbul - Türkiye
 - <b>Profession:</b> Architectural Restoration Technician
