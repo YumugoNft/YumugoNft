@@ -17,7 +17,7 @@
 - <h3><b>Exchanges Listing Yumugo Nft's</b></h3>
 - Yumugo NFT's are currently listed on Opensea and OKX exchanges. You can purchase them from these websites. You can join our Discord communities and stay in touch with Yumugo as we maintain it.
 
-- You can also follow Yumugo on the X platform to stay up-to-date. You can send emails to Yumugo on any topic you wish using their personal email address. <b>by.opraks</b>
+- You can also follow Yumugo on the X platform to stay up-to-date. You can send emails to Yumugo on any topic you wish using their personal email address. <b><i>by.opraks</i></b>
 
 - <h3><b>Yumugo Contact</b></h3>
 - You can find Yumugo Products in various stores and on some social media pages by clicking the links below. For your requests, comments, and suggestions, you can write to Yumugo's Email address or my personal Email address. Thank you...
