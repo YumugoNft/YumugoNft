@@ -33,7 +33,6 @@
 - <b>Profession:</b> Architectural Restoration Technician
 
 <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js" defer></script>
-
 <!-- ShareThis BEGINS -->
 <div class="sharethis-share-buttons" data-type="sticky-share-buttons" data-alignment="left" data-labels="counts" data-show_total="true">
 <span data-network="facebook"></span>
