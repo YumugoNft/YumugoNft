@@ -29,4 +29,4 @@
 - <b>Profession:</b> Architectural Restoration Technician
 
 <img src="https://github.com/YumugoNft/YumugoNft/blob/main/Page%20Banner%201.png?raw=true"/>
-<img src="https://github.com/YumugoNft/YumugoNft/blob/main/Page%20Banner%201.png?raw=true"/>
+<img src="https://github.com/YumugoNft/YumugoNft/blob/main/Page%20Banner%202.png?raw=true"/>
