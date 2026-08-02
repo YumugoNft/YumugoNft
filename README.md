@@ -1,6 +1,6 @@
 <h2>Welcome to Yumugo Nft's World</h2>
 
-<h3><b>What Is Yumugo Nft's ?</b></h3>
+- <h3><b>What Is Yumugo Nft's ?</b></h3>
 - Yumugo is a friendly egg. It's always a cheerful and sweet companion. The creation process focused on what an egg is capable of.
 
 - Designed in a cartoon style using Pixel Art techniques, each image is in PNG format with dimensions of 3072x3072 pixels. Each image is approximately between 150 KB and 800 KB in size. Each feature is generated using body, face, accessory, and background colors.
@@ -9,7 +9,7 @@
 
 - Finally, I believe every claim is valuable. I wish all developers good work and good earnings. Lastly, I believe Yumugo will bring you happiness.
 
-<h3><b>How Did It Start ?</b></h3>
+- <h3><b>How Did It Start ?</b></h3>
 - I can start with 2024, a historic year for me.The inclusion of Artificial Intelligence (AI) and its products into the developing Blockchain Technology and its presentation of a new approach, is a topic I already follow, so it directly drew me to this content.
 
 - The Yumugo initiative developed spontaneously in this process. Although I have developed many different ideas and models before, I chose to start with Yumugo. I expect your positive contributions for this idea to succeed and achieve something. Thank you all in advance.
@@ -19,7 +19,7 @@
 
 - You can also follow Yumugo on the X platform to stay up-to-date. You can send emails to Yumugo on any topic you wish using their personal email address. <b>by.opraks</b>
 
-<h3><b>Yumugo Contact</b></h3>
+- <h3><b>Yumugo Contact</b></h3>
 - You can find Yumugo Products in various stores and on some social media pages by clicking the links below. For your requests, comments, and suggestions, you can write to Yumugo's Email address or my personal Email address. Thank you...
 
 - <b>Epost:</b> yumugo.nft@gmail.com
