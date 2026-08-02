@@ -1,5 +1,5 @@
 # Yumugo-Nft-s
-Welcome to Yumugo Nft's World
+<h2>Welcome to Yumugo Nft's World</h2>h2>
 
 <b>What Is Yumugo Nft's ?</b>
 <p>Yumugo is a friendly egg. It's always a cheerful and sweet companion. The creation process focused on what an egg is capable of.
